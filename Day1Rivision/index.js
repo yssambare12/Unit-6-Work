@@ -1,3 +1,13 @@
+// console.log(e);
+// p1.textContent=e.title;
+// img.style.width="300px";
+// img.style.borderRadius="5px";
+// p1.setAttribute("class","ptag");
+// div.setAttribute("class","divine");
+// div.append(img,p1);
+// root.append(div);
+// })
+
 let root=document.getElementById("root");
 let c=1;
   async function getData() {
